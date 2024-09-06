@@ -1,0 +1,591 @@
+{
+    "product": [
+      {
+        "id": "1",
+        "productName": "Evening Gown",
+        "productPrice": "125,000",
+        "productImage": "images/1.jpg",
+        "productDescription": "Step into the spotlight with our Elegant Evening Gown, a stunning piece that combines timeless elegance with contemporary design. Crafted from luxurious fabrics, this gown features a delicate balance of intricate lace and soft silk that flows gracefully with every step you take. The bodice is adorned with hand-sewn beads and sequins, creating a shimmering effect that captures the light beautifully. Perfect for gala events or a sophisticated night out, this dress is designed to make a statement. The full-length skirt adds a touch of drama, while the tailored fit ensures you look impeccably polished from every angle. With its deep, rich color and exquisite attention to detail, the Elegant Evening Gown is more than just a dress—it's a work of art that will make you feel as beautiful as you look.",
+        "type": "product"
+      },
+      {
+        "id": "2",
+        "productName": "Leather Jacket",
+        "productPrice": "150,000",
+        "productImage": "images/2.jpg",
+        "productDescription": "Our Classic Leather Jacket is the epitome of rugged sophistication. Made from premium quality leather, it offers both durability and comfort. The jacket's timeless design features a zippered front, multiple pockets, and adjustable cuffs, blending functionality with style. The soft inner lining enhances warmth, making it perfect for chilly evenings. Whether you're heading to a casual meet-up or a more formal event, this versatile jacket can be dressed up or down. Its rich texture and classic cut ensure it remains a staple in your wardrobe for years to come. Pair it with jeans for a casual look or trousers for a more polished outfit.",
+        "type": "product"
+      },
+      {
+        "id": "3",
+        "productName": "Silk Scarf",
+        "productPrice": "95,000",
+        "productImage": "images/3.jpg",
+        "productDescription": "Add a touch of luxury to any ensemble with our Modern Silk Scarf. Crafted from 100% pure silk, this scarf is soft to the touch and features a contemporary print that makes it a standout accessory. The lightweight material allows it to be worn in various styles, whether draped loosely around your neck or tied in a sophisticated knot. Its vibrant colors and modern design are perfect for adding a splash of elegance to your outfit. Wear it to accessorize a simple blouse or to add some flair to a professional suit.",
+        "type": "product"
+      },
+      {
+        "id": "4",
+        "productName": "Vintage Jeans",
+        "productPrice": "110,000",
+        "productImage": "images/4.jpg",
+        "productDescription": "Discover the ultimate in comfort and style with our Vintage Denim Jeans. These jeans feature a classic cut that has been updated with a modern twist, offering a perfect fit that flatters all body types. The denim used in these jeans is sourced from one of the oldest mills, known for its durability and high quality. The subtle distressed details and washed effect give them a lived-in look that adds character and style. Ideal for everyday wear, these jeans can be paired with anything from a simple t-shirt to a more elaborate top for a night out.",
+        "type": "product"
+      },
+      {
+        "id": "5",
+        "productName": "Rhapsody Dress",
+        "productPrice": "180,000",
+        "productImage": "images/5.jpg",
+        "productDescription": "Embrace a free-spirited aesthetic with our Bohemian Rhapsody Dress. This beautiful dress is designed with a blend of floral prints and delicate lace, creating a romantic and whimsical look. The flowing silhouette and lightweight fabric ensure comfort and freedom of movement, making it ideal for spring and summer days. Whether you're attending a festival or strolling through the city, this dress will make you feel effortlessly chic.",
+        "type": "product"
+      },
+      {
+        "id": "6",
+        "productName": "Business Suit",
+        "productPrice": "200,000",
+        "productImage": "images/6.jpg",
+        "productDescription": "Project confidence and professionalism with our Contemporary Business Suit. This suit is tailored to provide a sleek, modern fit that sharpens any wardrobe. Constructed from high-quality materials, it features a structured jacket and slim-fit trousers that offer both style and comfort. The suit's subtle patterning and refined details such as the lapel pin and discreet pockets make it an essential choice for business meetings or formal occasions.",
+        "type": "product"
+      },
+      {
+        "id": "7",
+        "productName": "Trendsetter Bag",
+        "productPrice": "90,000",
+        "productImage": "images/7.jpg",
+        "productDescription": "Our Trendsetter Tote Bag is the perfect blend of functionality and fashion. Made from durable materials, this bag is designed to carry all your essentials with ease. The spacious interior, multiple compartments, and secure closures ensure that everything stays in place. Whether you're going to the office, shopping, or traveling, this tote will keep you organized and stylish.",
+        "type": "product"
+      },
+      {
+        "id": "8",
+        "productName": "Canvas Sneakers",
+        "productPrice": "75,000",
+        "productImage": "images/8.jpg",
+        "productDescription": "Step into comfort with our Casual Canvas Sneakers. These sneakers are designed for all-day wear, with a soft, breathable canvas upper and a cushioned footbed. The classic design is versatile enough to wear with jeans, shorts, or even dresses. Available in a variety of colors, these sneakers are a must-have for any casual wardrobe.",
+        "type": "product"
+      },
+      {
+        "id": "9",
+        "productName": "Sophisticated Dress",
+        "productPrice": "145,000",
+        "productImage": "images/9.jpg",
+        "productDescription": "Make a stunning entrance with our Sophisticated Cocktail Dress. This dress is the epitome of elegance, featuring a fitted bodice, a flared skirt, and delicate lace detailing. The high-quality fabric and meticulous construction ensure that you'll look fabulous from every angle. Ideal for cocktail parties or any special occasion where you want to impress.",
+        "type": "product"
+      },
+      {
+        "id": "10",
+        "productName": "Outdoor Boots",
+        "productPrice": "160,000",
+        "productImage": "images/10.jpg",
+        "productDescription": "Tackle any terrain with our Rugged Outdoor Boots. These boots are built to last, with a sturdy construction and high-quality materials. The waterproof design keeps your feet dry in wet conditions, while the rugged sole provides excellent traction on various surfaces. Ideal for hiking, camping, or any outdoor adventure.",
+        "type": "product"
+      },
+      {
+        "id": "11",
+        "productName": "Chic Summer Hat",
+        "productPrice": "65,000",
+        "productImage": "images/11.jpg",
+        "productDescription": "Shield yourself from the sun in style with our Chic Summer Hat. Made from lightweight materials, this hat not only provides excellent sun protection but also adds a fashionable touch to your summer outfits. The wide brim offers shade for your face and neck, while the stylish design ensures you look great. Perfect for beach days, garden parties, or any outdoor activity.",
+        "type": "product"
+      },
+      {
+        "id": "12",
+        "productName": "Luxury Watch",
+        "productPrice": "300,000",
+        "productImage": "images/12.jpg",
+        "productDescription": "Time is precious, and our Luxury Watch is a testament to this. Crafted with precision and care, this watch features a classic design with a modern twist. The stainless steel case, sapphire crystal glass, and elegant dial make it a timeless piece. Equipped with a reliable movement, it offers both functionality and style. An essential accessory for the discerning individual.",
+        "type": "product"
+      },
+      {
+        "id": "13",
+        "productName": "Sunglasses",
+        "productPrice": "120,000",
+        "productImage": "images/13.jpg",
+        "productDescription": "Our Designer Sunglasses are the perfect accessory for sunny days. With a stylish frame and high-quality lenses, they provide excellent UV protection while enhancing your fashion statement. Suitable for both casual and formal occasions, these sunglasses will keep you looking cool and feeling comfortable in the glare.",
+        "type": "product"
+      },
+      {
+        "id": "14",
+        "productName": "Blazer",
+        "productPrice": "210,000",
+        "productImage": "images/14.jpeg",
+        "productDescription": "Elevate your professional wardrobe with our Sophisticated Blazer. This blazer is designed for a polished and refined look, with sharp tailoring and a flattering fit. Made from high-quality materials, it's perfect for business meetings, formal events, or any occasion where you need to make a good impression. The classic design and versatile style make it an indispensable part of your wardrobe.",
+        "type": "product"
+      },
+      {
+        "id": "15",
+        "productName": "Floral Print",
+        "productPrice": "130,000",
+        "productImage": "images/15.jpg",
+        "productDescription": "Our Floral Print Maxi Dress is a celebration of style and comfort. Featuring a beautiful array of flowers on a soft fabric, this dress is perfect for spring and summer events. The flowy silhouette and breathable material make it easy to wear all day, while the vibrant colors ensure you stand out in the best way possible.",
+        "type": "product"
+      },
+      {
+        "id": "16",
+        "productName": "Athletic Shoes",
+        "productPrice": "180,000",
+        "productImage": "images/16.jpg",
+        "productDescription": "Enhance your workout with our High-Performance Athletic Shoes. Designed for the active individual, these shoes offer superior comfort and support. The advanced cushioning and durable construction ensure they can withstand the most rigorous activities, while the sleek design keeps you looking stylish.",
+        "type": "product"
+      },
+      {
+        "id": "17",
+        "productName": "Eco-Friendly",
+        "productPrice": "85,000",
+        "productImage": "images/17.jpg",
+        "productDescription": "Our Eco-Friendly Tote Bag combines functionality with sustainability. Made from recycled materials, this bag is an excellent choice for the environmentally conscious shopper. Spacious and durable, it's ideal for carrying groceries, books, or any other essentials. The simple yet stylish design makes it a versatile addition to any collection.",
+        "type": "product"
+      },
+      {
+        "id": "18",
+        "productName": "Bespoke Tailored",
+        "productPrice": "350,000",
+        "productImage": "images/18.jpg",
+        "productDescription": "Experience the ultimate in luxury and craftsmanship with our Bespoke Tailored Suit. Custom-made to your exact measurements and specifications, this suit ensures a perfect fit and unrivaled comfort. Crafted from the finest fabrics, it reflects sophistication and elegance, suitable for the most formal occasions.",
+        "type": "product"
+      },
+      {
+        "id": "19",
+        "productName": "Aviator Jacket",
+        "productPrice": "220,000",
+        "productImage": "images/19.png",
+        "productDescription": "Take to the skies in style with our Aviator Jacket. This jacket is inspired by the classic pilot's attire and modernized for everyday wear. Made from premium leather with a soft, comfortable lining, it offers warmth and style. The timeless design includes a zip-up front, snug cuffs, and multiple pockets for functionality.",
+        "type": "product"
+      },
+      {
+        "id": "20",
+        "productName": "Crafted Handbag",
+        "productPrice": "175,000",
+        "productImage": "images/20.webp",
+        "productDescription": "Carry a piece of art with our Artisan Crafted Handbag. Each bag is unique, featuring hand-painted designs and exquisite craftsmanship. The high-quality materials and attention to detail ensure durability and style. Perfect for adding a touch of creativity to your outfit, this bag is a true statement piece.",
+        "type": "product"
+      },
+      {
+        "id": "21",
+        "productName": "Heirloom Scarf",
+        "productPrice": "110,000",
+        "productImage": "images/21.webp",
+        "productDescription": "Wrap yourself in the warmth and beauty of our Heirloom Wool Scarf. Made from the finest wool, this scarf is both luxurious and durable. Its classic design and soft texture make it a must-have accessory for the colder months. Ideal for adding a touch of elegance to any winter outfit.",
+        "type": "product"
+      },
+      {
+        "id": "22",
+        "productName": "Out-Clutch Bag",
+        "productPrice": "70,000",
+        "productImage": "images/22.webp",
+        "productDescription": "Our Night Out Clutch Bag is the perfect accessory for any evening event. Compact yet spacious enough to hold all your essentials, this clutch combines style with practicality. The sleek design and elegant materials make it an ideal complement to your evening wear.",
+        "type": "product"
+      },
+      {
+        "id": "23",
+        "productName": "Street Jacket",
+        "productPrice": "135,000",
+        "productImage": "images/23.webp",
+        "productDescription": "Make a statement with our Street Style Bomber Jacket. This jacket combines urban flair with practicality, featuring a durable exterior and a comfortable interior. Its versatile design allows it to be paired with various outfits, making it a great addition to your casual wardrobe.",
+        "type": "product"
+      },
+      {
+        "id": "24",
+        "productName": "Glamorous Sequin",
+        "productPrice": "250,000",
+        "productImage": "images/9.jpg",
+        "productDescription": "Shine at your next party with our Glamorous Sequin Dress. This dress is covered in sparkling sequins that catch the light from every angle. The fitted silhouette and short hem make it a showstopper, perfect for evenings where you want to be the center of attention.",
+        "type": "product"
+      }
+    ],
+    "acc": [
+      {
+        "id": 1,
+        "productName": "Illuminate",
+        "productPrice": "99.99",
+        "productDescription": "An elegant desk lamp with adjustable brightness settings to create the ideal workspace lighting environment. Perfect for late-night work or reading.",
+        "productImage": "accessories/1.jpg",
+        "type": "access"
+      },
+      {
+        "id": 2,
+        "productName": "Harmony",
+        "productPrice": "149.99",
+        "productDescription": "Enhance your living space with our Harmony scented candle, designed to provide a soothing atmosphere and a touch of luxury.",
+        "productImage": "accessories/2.jpg",
+        "type": "access"
+      },
+      {
+        "id": 3,
+        "productName": "Serene",
+        "productPrice": "199.99",
+        "productDescription": "Keep time in style with Serene, a modern minimalist clock that complements any room décor. It’s more than just a timepiece; it’s a lifestyle.",
+        "productImage": "accessories/3.jpg",
+        "type": "access"
+      },
+      {
+        "id": 4,
+        "productName": "Brew",
+        "productPrice": "249.99",
+        "productDescription": "Start your day right with Brew, our premium coffee maker that guarantees a perfect cup every morning. Ideal for coffee aficionados.",
+        "productImage": "accessories/4.jpg",
+        "type": "access"
+      },
+      {
+        "id": 5,
+        "productName": "Echo",
+        "productPrice": "299.99",
+        "productDescription": "Echo offers a high-quality audio experience with its advanced Bluetooth connectivity and crystal clear sound. Perfect for music lovers.",
+        "productImage": "accessories/5.jpg",
+        "type": "access"
+      },
+      {
+        "id": 6,
+        "productName": "Zenith",
+        "productPrice": "349.99",
+        "productDescription": "Experience ultimate audio fidelity with Zenith wireless headphones. Designed for comfort and exceptional sound quality.",
+        "productImage": "accessories/6.jpg",
+        "type": "access"
+      },
+      {
+        "id": 7,
+        "productName": "Quest",
+        "productPrice": "399.99",
+        "productDescription": "Stay comfortable throughout your workday with the Quest ergonomic office chair. It combines style, support, and functionality.",
+        "productImage": "accessories/7.jpg",
+        "type": "access"
+      },
+      {
+        "id": 8,
+        "productName": "Clarity",
+        "productPrice": "449.99",
+        "productDescription": "Protect your eyes in style with Clarity advanced eyeglasses featuring a blue light filter, perfect for long hours in front of screens.",
+        "productImage": "accessories/8.jpg",
+        "type": "access"
+      }
+  ],
+    "men": [
+      {
+        "id": "1",
+        "productName": "Classic Suit",
+        "productPrice": "180,000",
+        "productDescription": "A timeless suit designed for elegance and professionalism. Made from premium fabrics with a sharp cut, it's perfect for formal events and business meetings.",
+        "productImage": "men/1.webp",
+        "type": "men"
+      },
+      {
+        "id": "2",
+        "productName": "Casual Blazer",
+        "productPrice": "150,000",
+        "productDescription": "A versatile blazer that can be dressed up or down. Featuring a comfortable fit and stylish design, it's great for both casual and semi-formal occasions.",
+        "productImage": "men/2.webp",
+        "type": "men"
+      },
+      {
+        "id": "3",
+        "productName": "Denim Jacket",
+        "productPrice": "120,000",
+        "productDescription": "Classic denim jacket with a modern twist. Durable and stylish, perfect for layering over your favorite casual outfits.",
+        "productImage": "men/3.webp",
+        "type": "men"
+      },
+      {
+        "id": "4",
+        "productName": "Chinos",
+        "productPrice": "95,000",
+        "productDescription": "Comfortable chinos with a sleek fit. Ideal for both casual and business-casual settings, available in a range of colors.",
+        "productImage": "men/4.webp",
+        "type": "men"
+      },
+      {
+        "id": "5",
+        "productName": "Graphic T-Shirt",
+        "productPrice": "70,000",
+        "productDescription": "Express your personality with this graphic t-shirt. Made from soft cotton, it features a bold design that's perfect for casual wear.",
+        "productImage": "men/5.webp",
+        "type": "men"
+      },
+      {
+        "id": "6",
+        "productName": "Leather Loafers",
+        "productPrice": "130,000",
+        "productDescription": "Elegant leather loafers that combine comfort with style. Ideal for both business and casual occasions.",
+        "productImage": "men/6.webp",
+        "type": "men"
+      },
+      {
+        "id": "7",
+        "productName": "Wool Sweater",
+        "productPrice": "110,000",
+        "productDescription": "Soft and warm wool sweater, perfect for layering during colder months. Features a classic design that pairs well with jeans or chinos.",
+        "productImage": "men/7.webp",
+        "type": "men"
+      },
+      {
+        "id": "8",
+        "productName": "Slim Fit Jeans",
+        "productPrice": "105,000",
+        "productDescription": "Modern slim fit jeans that offer a sleek silhouette. Made from high-quality denim, these jeans are both comfortable and stylish.",
+        "productImage": "men/8.webp",
+        "type": "men"
+      },
+      {
+        "id": "9",
+        "productName": "Polo Shirt",
+        "productPrice": "85,000",
+        "productDescription": "Classic polo shirt with a comfortable fit and a range of colors. Ideal for casual outings and layering under jackets.",
+        "productImage": "men/9.webp",
+        "type": "men"
+      },
+      {
+        "id": "10",
+        "productName": "Bomber Jacket",
+        "productPrice": "140,000",
+        "productDescription": "Stylish bomber jacket with a modern design. Made from durable materials, it's perfect for adding a cool edge to your outfits.",
+        "productImage": "men/10.webp",
+        "type": "men"
+      },
+      {
+        "id": "11",
+        "productName": "Knit Beanie",
+        "productPrice": "60,000",
+        "productDescription": "Warm knit beanie designed for comfort and style. Perfect for keeping your head cozy during the colder seasons.",
+        "productImage": "men/11.webp",
+        "type": "men"
+      },
+      {
+        "id": "12",
+        "productName": "Track Pants",
+        "productPrice": "90,000",
+        "productDescription": "Comfortable track pants with a modern fit. Ideal for workouts or casual lounging, made from breathable and stretchy material.",
+        "productImage": "men/12.webp",
+        "type": "men"
+      }
+    ],
+    "kids": [
+    {
+      "id": "1",
+      "productName": "Playful Hoodie",
+      "productPrice": "65,000",
+      "productDescription": "Keep your little one warm and stylish with our Playful Hoodie. Made from soft, breathable fabric, it features a fun design and a cozy fit.",
+      "productImage": "kids/1.webp",
+      "type": "kids"
+    },
+    {
+      "id": "2",
+      "productName": "Adventure Pants",
+      "productPrice": "55,000",
+      "productDescription": "Durable adventure pants designed for active kids. With plenty of pockets and a comfortable fit, they’re perfect for exploring and playing.",
+      "productImage": "kids/2.webp",
+      "type": "kids"
+    },
+    {
+      "id": "3",
+      "productName": "Bright Sneakers",
+      "productPrice": "75,000",
+      "productDescription": "Colorful and comfortable sneakers that add a fun pop to any outfit. Ideal for school and playtime, with a durable sole and easy-to-use Velcro straps.",
+      "productImage": "kids/3.webp",
+      "type": "kids"
+    },
+    {
+      "id": "4",
+      "productName": "Sunny Dress",
+      "productPrice": "85,000",
+      "productDescription": "A cheerful summer dress featuring vibrant colors and a playful pattern. Perfect for sunny days, with a light, airy fabric for comfort.",
+      "productImage": "kids/4.webp",
+      "type": "kids"
+    },
+    {
+      "id": "5",
+      "productName": "Cozy Sweater",
+      "productPrice": "70,000",
+      "productDescription": "Warm and snuggly sweater made from soft yarn. Ideal for layering on chilly days, with a cute design that kids will love.",
+      "productImage": "kids/5.webp",
+      "type": "kids"
+    },
+    {
+      "id": "6",
+      "productName": "Fun Overalls",
+      "productPrice": "85,000",
+      "productDescription": "Adorable overalls perfect for active play. Made from sturdy denim with adjustable straps, they offer both style and practicality.",
+      "productImage": "kids/6.webp",
+      "type": "kids"
+    },
+    {
+      "id": "7",
+      "productName": "Graphic Tee",
+      "productPrice": "50,000",
+      "productDescription": "A soft graphic tee with a fun design that kids will enjoy. Perfect for everyday wear, with a relaxed fit and durable fabric.",
+      "productImage": "kids/7.webp",
+      "type": "kids"
+    },
+    {
+      "id": "8",
+      "productName": "Sporty Jacket",
+      "productPrice": "90,000",
+      "productDescription": "Keep active kids warm with this sporty jacket. Lightweight and breathable, it’s perfect for outdoor activities and sports.",
+      "productImage": "kids/8.webp",
+      "type": "kids"
+    },
+    {
+      "id": "9",
+      "productName": "Patterned Leggings",
+      "productPrice": "60,000",
+      "productDescription": "Fun and stretchy leggings featuring playful patterns. Ideal for comfort and style during playtime or casual outings.",
+      "productImage": "kids/9.webp",
+      "type": "kids"
+    },
+    {
+      "id": "10",
+      "productName": "Striped Jumper",
+      "productPrice": "75,000",
+      "productDescription": "Colorful striped jumper that adds a cheerful touch to any outfit. Made from soft materials, it’s perfect for keeping cozy on cool days.",
+      "productImage": "kids/10.webp",
+      "type": "kids"
+    },
+    {
+      "id": "11",
+      "productName": "Rain Boots",
+      "productPrice": "80,000",
+      "productDescription": "Bright and waterproof rain boots designed for splashing in puddles. Durable and easy to clean, perfect for rainy days.",
+      "productImage": "kids/11.webp",
+      "type": "kids"
+    },
+    {
+      "id": "12",
+      "productName": "Cozy Pajamas",
+      "productPrice": "70,000",
+      "productDescription": "Soft and comfortable pajamas with a fun design. Ideal for bedtime, made from breathable fabric to keep kids snug throughout the night.",
+      "productImage": "kids/12.webp",
+      "type": "kids"
+    }
+    ],
+    "women": [
+    {
+      "id": "1",
+      "productName": "Elegant Evening Gown",
+      "productPrice": "125,000",
+      "productDescription": "Step into the spotlight with our Elegant Evening Gown, a stunning piece that combines timeless elegance with contemporary design. Crafted from luxurious fabrics, this gown features intricate lace and soft silk that flows gracefully with every step.",
+      "productImage": "women/1.webp",
+      "type": "women"
+    },
+    {
+      "id": "2",
+      "productName": "Chic Blazer",
+      "productPrice": "145,000",
+      "productDescription": "Elevate your professional wardrobe with our Chic Blazer. Tailored for a polished look, it features sharp lines and high-quality fabric, perfect for business meetings or formal events.",
+      "productImage": "women/1.webp",
+      "type": "women"
+    },
+    {
+      "id": "3",
+      "productName": "Flowy Maxi Dress",
+      "productPrice": "90,000",
+      "productDescription": "Embrace effortless style with our Flowy Maxi Dress. Featuring a relaxed fit and a beautiful print, this dress is perfect for both casual and dressy occasions.",
+      "productImage": "women/2.webp",
+      "type": "women"
+    },
+    {
+      "id": "4",
+      "productName": "Sophisticated Jumpsuit",
+      "productPrice": "160,000",
+      "productDescription": "Our Sophisticated Jumpsuit combines modern design with classic elegance. With its tailored fit and sleek lines, it’s a versatile piece for both day and night events.",
+      "productImage": "women/3.webp",
+      "type": "women"
+    },
+    {
+      "id": "5",
+      "productName": "Casual Denim Skirt",
+      "productPrice": "75,000",
+      "productDescription": "The Casual Denim Skirt is a staple for any wardrobe. With its comfortable fit and classic design, it pairs perfectly with a variety of tops for a casual, stylish look.",
+      "productImage": "women/4.webp",
+      "type": "women"
+    },
+    {
+      "id": "6",
+      "productName": "Trendy Sunglasses",
+      "productPrice": "120,000",
+      "productDescription": "Complete your look with our Trendy Sunglasses. Offering both UV protection and a chic design, these sunglasses are perfect for sunny days or any fashion-forward ensemble.",
+      "productImage": "women/5.webp",
+      "type": "women"
+    },
+    {
+      "id": "7",
+      "productName": "Elegant Cocktail Dress",
+      "productPrice": "135,000",
+      "productDescription": "Make a statement at your next event with our Elegant Cocktail Dress. Featuring a fitted bodice and a flared skirt, this dress is perfect for any special occasion.",
+      "productImage": "women/6.webp",
+      "type": "women"
+    },
+    {
+      "id": "8",
+      "productName": "Luxury Handbag",
+      "productPrice": "200,000",
+      "productDescription": "Our Luxury Handbag is a blend of style and function. Crafted from high-quality materials, it features a spacious interior and a sophisticated design, making it perfect for any occasion.",
+      "productImage": "women/7.webp",
+      "type": "women"
+    },
+    {
+      "id": "9",
+      "productName": "Soft Wool Sweater",
+      "productPrice": "85,000",
+      "productDescription": "Stay warm and stylish with our Soft Wool Sweater. Made from luxurious wool, it offers comfort and a refined look suitable for any casual or semi-formal setting.",
+      "productImage": "women/8.webp",
+      "type": "women"
+    },
+    {
+      "id": "10",
+      "productName": "Classic Trench Coat",
+      "productPrice": "180,000",
+      "productDescription": "The Classic Trench Coat is an iconic piece for any wardrobe. With its timeless design and high-quality fabric, it’s perfect for layering during cooler months.",
+      "productImage": "women/9.webp",
+      "type": "women"
+    },
+    {
+      "id": "11",
+      "productName": "Stylish Ankle Boots",
+      "productPrice": "110,000",
+      "productDescription": "Our Stylish Ankle Boots are a versatile addition to any outfit. Featuring a sleek design and comfortable fit, they’re perfect for both casual and formal occasions.",
+      "productImage": "women/16.webp",
+      "type": "women"
+    },
+    {
+      "id": "12",
+      "productName": "Floral Wrap Dress",
+      "productPrice": "140,000",
+      "productDescription": "Embrace a fresh look with our Floral Wrap Dress. The wrap design and floral pattern make it a lovely choice for spring and summer outings.",
+      "productImage": "women/11.webp",
+      "type": "women"
+    },
+    {
+      "id": "13",
+      "productName": "Elegant Clutch",
+      "productPrice": "95,000",
+      "productDescription": "Our Elegant Clutch adds a touch of sophistication to any evening look. With its sleek design and refined details, it’s perfect for carrying your essentials in style.",
+      "productImage": "women/12.webp",
+      "type": "women"
+    },
+    {
+      "id": "14",
+      "productName": "Comfy Joggers",
+      "productPrice": "70,000",
+      "productDescription": "Relax in style with our Comfy Joggers. Designed for ultimate comfort, these joggers are perfect for lounging or casual outings.",
+      "productImage": "women/13.webp",
+      "type": "women"
+    },
+    {
+      "id": "15",
+      "productName": "Sleek Pencil Skirt",
+      "productPrice": "85,000",
+      "productDescription": "The Sleek Pencil Skirt is a classic piece for your wardrobe. With its streamlined fit and versatile style, it’s perfect for both office wear and evening outings.",
+      "productImage": "women/14.webp",
+      "type": "women"
+    },
+    {
+      "id": "16",
+      "productName": "Chic Slip Dress",
+      "productPrice": "155,000",
+      "productDescription": "Our Chic Slip Dress offers a modern take on elegance. With its soft fabric and minimalist design, it’s a versatile piece for both daytime and evening events.",
+      "productImage": "women/15.webp",
+      "type": "women"
+    }
+  ]
+  }
+  
+  
+  

@@ -1,0 +1,728 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+  overflow-x: hidden;
+}
+.navbar{
+    margin-bottom: 0px;
+    }
+    .navbar-inverse
+    {
+        background-color: white;
+        color: black;
+        border: none;
+    }
+.navbar-default .navbar-nav>li>a {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.navbar-default {
+    background-color: rgb(0, 0, 0);
+    border: none;
+}
+.image
+{
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('../background/rectangle.jpg') no-repeat top center;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    height: 85vh;
+    position: relative;
+    margin-top: 49px;
+    text-align: center;
+}
+.title
+{
+    font-family: 'Lora', serif;
+    font-weight: medium;
+    color: white;
+    font-size: 30px;
+    padding-top: 350px;
+    
+}
+.title2
+{
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    font-size: 20px;
+    background: white;
+    margin: 5px auto;
+    width: 120px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.title3
+{
+    font-family: 'Lora', serif;
+    font-style: normal;
+    font-size: 48px;
+    color: black;
+    cursor: pointer;
+}
+.paragraph
+{
+    font-family: 'Merriweather', serif;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.fix
+{
+    padding: 10px;
+}
+.box
+{
+        position: relative;
+        box-shadow: 10px 10px 4px rgba(5, 3, 3, 0.45);
+}
+.absolute {
+    position: absolute;
+    top: 79%;
+    left: 50%;
+  transform: translate(-50%, -50%);
+  }
+  .title4
+{
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    font-size: 15px;
+    background: white;
+    margin: 5px auto;
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+}
+.flex
+{
+    margin: 10px auto;
+    max-width: 600px;
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
+.flex div
+{
+    width: 100%;
+    height: 100%;
+}
+#second
+{
+    background-color: black;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+    
+}
+@media screen and (max-width:768px){
+    .flex
+{
+    margin: 10px auto;
+    max-width: 800px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+
+}
+}
+.title5
+{
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    font-style: italic;
+    color: black;
+    font-size: 15px;
+    background: white;
+    margin: 5px auto;
+    width: 120px;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.button {
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: 10px; /* Add padding for better button appearance */
+    text-align: center; /* Center-align the text */
+    cursor: pointer; /* Add a pointer cursor for usability */
+    border: 1px solid black; /* Add a border for button styling */
+    font-weight: bold;
+  }
+  .button2 {
+    background-color: white;
+    color: black;
+    padding: 8px 15px; /* Add padding to create space between text and border */
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid black;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+  }
+  
+  .button:hover, .button2:hover {
+    background-color: black; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+  }
+  .product-description
+  {
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  }
+  .card{
+    padding: 10px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .card-title
+  {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: black;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+  }
+  .card-prix
+  {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: black;
+    margin-bottom: 10px;
+  }
+  .flexe
+  {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  .flexe div
+  {
+    margin-left: 5px;
+  }
+  footer {
+    background-color: 'rgb(172, 172, 172)';
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    font-size: 16px;
+  }
+  
+  /* Name styles */
+  .name {
+    font-weight: bold;
+  }
+
+/* Second For Store */
+  body
+{
+  overflow-x: hidden;
+}
+h1,h2,h3,h4,h5,p
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+   
+}
+.nav div {
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+.search-bar
+{
+    margin: 10px auto;
+    max-width: 800px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.search-bar input
+{
+    width: 450px;
+    height: 35px;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+input::placeholder
+{
+    font-size: 15px;
+    font-weight: 500;
+    color: gray;
+    text-transform:capitalize;
+    padding-left: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+#btn {
+   
+    height: 35px;
+    width: 35px;
+    padding: 0px;
+    font-size: 12px;
+    background-color: rgba(211, 199, 199, 0.356);
+    border-color: rgba(211, 199, 199, 0.356);
+    background-color: red;
+    color: white;
+}
+@media (max-width:768px)
+{
+    .search-bar input
+    {
+        width: 200px;
+        height: 35px;
+    }
+}
+.btn-danger
+{
+    background-color: black;
+    border: black;
+}
+
+.card{
+padding: 10px;
+}
+.card-image {
+    width: 100%;
+    max-height: 200px; /* Set a maximum height to prevent the image from exceeding this height */
+    overflow: hidden;
+}
+
+.card-image img {
+    width: 100%;
+    height: auto; /* Allow the image to maintain its aspect ratio */
+    object-fit: cover; /* Cover the entire container while maintaining aspect ratio */
+}
+.button {
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: 10px; /* Add padding for better button appearance */
+    text-align: center; /* Center-align the text */
+    cursor: pointer; /* Add a pointer cursor for usability */
+    border: 1px solid black; /* Add a border for button styling */
+    font-weight: bold;
+  }
+  .button:hover, .button2:hover {
+    background-color: black; /* Change background color on hover */
+    color: white; /* Change text color on hover */
+  }
+  .card-title
+  {
+    font-family: 'Poppins', sans-serif;
+
+  }
+  .prix
+  {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+  }
+  ul {
+    list-style: none; /* Remove list decoration */
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+
+.contact-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 8px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.features
+{
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.contact-info {
+    color: gray;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.contact-info a {
+    color: gray;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.site-info li 
+{
+    padding: 5px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.site-info li a
+{
+    color: gray;
+    font-size: 16px;
+    font-family: inherit;
+
+}
+.contact-info:hover {
+    text-decoration: underline;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1,h2,h3,h4,h5,p
+{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+   
+}
+
+.nav div {
+    font-family: 'Poppins', sans-serif;
+    cursor: pointer;
+}
+.search-bar
+{
+    margin: 10px auto;
+    max-width: 800px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.search-bar input
+{
+    width: 450px;
+    height: 35px;
+    padding-left: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+input::placeholder
+{
+    font-size: 15px;
+    font-weight: 500;
+    color: gray;
+    text-transform:capitalize;
+    padding-left: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+#btn {
+   
+    height: 35px;
+    width: 35px;
+    padding: 0px;
+    font-size: 12px;
+    background-color: rgba(211, 199, 199, 0.356);
+    border-color: rgba(211, 199, 199, 0.356);
+    background-color: red;
+}
+.contente
+{
+    margin: 10px auto;
+    max-width: 78%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
+.contente div
+{
+    width: 100%;
+    height: 100%;
+}
+#second
+{
+    height: 100%;
+    width: 100%;
+    
+}
+p {
+    line-height: 1.62; /* this is a unitless value, which is recommended */
+  }
+.button {
+    background-color: white;
+    color: black;
+    width: 100%;
+    padding: 10px; /* Add padding for better button appearance */
+    text-align: center; /* Center-align the text */
+    cursor: pointer; /* Add a pointer cursor for usability */
+    border: 1px solid black; /* Add a border for button styling */
+    font-weight: bold;
+  }
+@media screen and (max-width:768px){
+    .contente
+{
+    margin: 10px auto;
+    max-width: 800px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+
+}
+}
+
+.card{
+    padding: 10px;
+    transition: padding 0.3s ease;
+  }
+  .card-title
+  {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: black;
+  }
+  .card-prix
+  {
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 10px;
+    color: rgb(207, 6, 6);
+    margin-bottom: 10px;
+  }
+
+  
+.contact-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 8px;
+    font-family: 'Poppins', sans-serif;
+}
+
+@media (max-width:768px)
+{
+    .search-bar input
+    {
+        width: 200px;
+        height: 35px;
+    }
+}
+.contact-info:hover {
+    text-decoration: underline;
+    font-family: 'Poppins', sans-serif;
+}
+.card:hover{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.swiper-button-next {
+    color: black !important;
+}
+
+.swiper-button-prev {
+    color: black !important;
+}
+@keyframes slideInLeft {
+    from {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+@keyframes slideInRight {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+/* Initially hide navigation buttons */
+.swiper-button-next,
+.swiper-button-prev {
+    opacity: 0;
+    transform: translateX(0); /* Ensure they are in the default position */
+    transition: opacity 0.3s ease, transform 0.5s ease; /* Smooth transition */
+}
+
+/* Show navigation buttons on hover with animation */
+.swiper-container:hover .swiper-button-next {
+    opacity: 1;
+    animation: slideInRight 0.3s forwards; /* Slide in from the right */
+}
+
+.swiper-container:hover .swiper-button-prev {
+    opacity: 1;
+    animation: slideInLeft 0.3s forwards; /* Slide in from the left */
+}
+
+/* Optional: Customize the appearance of navigation buttons */
+.swiper-button-next,
+.swiper-button-prev {
+    color: black; /* Adjust color as needed */
+}
+.make {
+    max-width: 350px;
+    margin: 50px  auto;
+    border-bottom: 1px solid black;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+  
+
+
+  .search-bar {
+    position: relative;
+    width: (200px, 450px, 450px);; 
+  }
+  
+  .dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    width: 100%;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    max-height: 200px; 
+    overflow-y: auto;
+    z-index: 1000;
+    box-sizing: border-box; 
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dropdown-item {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .dropdown-item:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .hidd {
+    opacity: 0;
+  transform: translateX(-50px); /* Adjust for your animation */
+ 
+  }
+  .visible {
+    opacity: 1;          /* Make element visible */
+    visibility: visible; /* Allow interaction */
+    position: static;    /* Reset positioning */
+    width: auto;
+    height: auto;
+  }
+    
+  .card-container {
+    border: 2px solid gray; /* Border style */
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 5px;
+    max-width: 600px; /* Set a max width for the card */
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Add some space between rows */
+  }
+  
+  .card-item {
+    display: flex;
+    justify-content: space-between; /* Spread items across the row */
+    align-items: center; /* Align items vertically centered */
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 768px) {
+    .card-container {
+      max-width: 100%; /* Ensure the card takes full width on smaller screens */
+    }
+  }
+  
+  .card-button {
+    background-color: gold; /* Gold background */
+    color: black; /* Black text */
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+  }
+  
+  /* Hover effect for button */
+  .card-button:hover {
+    background-color: #ffd700; /* Lighter gold on hover */
+  }
+
+  .sticky-cart-button {
+    position: fixed;
+    bottom: 20px; 
+    right: 20px; 
+    background-color: #000000; 
+    color: #fff; 
+    border: none; 
+    border-radius: 50%; 
+    width: 60px; 
+    height: 60px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
+    cursor: pointer; 
+    z-index: 1000;
+  }
+  
+  .sticky-cart-button:hover {
+    background-color: #ffd700;
+    transition: 2s ease; 
+  }
+  
+  .sticky-cart-button i {
+    margin: 0; 
+  }
