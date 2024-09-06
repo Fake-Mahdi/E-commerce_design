@@ -266,14 +266,14 @@
         "productPrice": "180,000",
         "productDescription": "A timeless suit designed for elegance and professionalism. Made from premium fabrics with a sharp cut, it's perfect for formal events and business meetings.",
         "productImage": "men/1.webp",
-        "type": "men"
+        "type": "Men"
       },
       {
         "id": "2",
         "productName": "Casual Blazer",
         "productPrice": "150,000",
         "productDescription": "A versatile blazer that can be dressed up or down. Featuring a comfortable fit and stylish design, it's great for both casual and semi-formal occasions.",
-        "productImage": "men/2.webp",
+        "productImage": "Men/2.webp",
         "type": "men"
       },
       {
@@ -281,7 +281,7 @@
         "productName": "Denim Jacket",
         "productPrice": "120,000",
         "productDescription": "Classic denim jacket with a modern twist. Durable and stylish, perfect for layering over your favorite casual outfits.",
-        "productImage": "men/3.webp",
+        "productImage": "Men/3.webp",
         "type": "men"
       },
       {
@@ -289,7 +289,7 @@
         "productName": "Chinos",
         "productPrice": "95,000",
         "productDescription": "Comfortable chinos with a sleek fit. Ideal for both casual and business-casual settings, available in a range of colors.",
-        "productImage": "men/4.webp",
+        "productImage": "Men/4.webp",
         "type": "men"
       },
       {
@@ -297,7 +297,7 @@
         "productName": "Graphic T-Shirt",
         "productPrice": "70,000",
         "productDescription": "Express your personality with this graphic t-shirt. Made from soft cotton, it features a bold design that's perfect for casual wear.",
-        "productImage": "men/5.webp",
+        "productImage": "Men/5.webp",
         "type": "men"
       },
       {
@@ -305,7 +305,7 @@
         "productName": "Leather Loafers",
         "productPrice": "130,000",
         "productDescription": "Elegant leather loafers that combine comfort with style. Ideal for both business and casual occasions.",
-        "productImage": "men/6.webp",
+        "productImage": "Men/6.webp",
         "type": "men"
       },
       {
@@ -313,7 +313,7 @@
         "productName": "Wool Sweater",
         "productPrice": "110,000",
         "productDescription": "Soft and warm wool sweater, perfect for layering during colder months. Features a classic design that pairs well with jeans or chinos.",
-        "productImage": "men/7.webp",
+        "productImage": "Men/7.webp",
         "type": "men"
       },
       {
@@ -321,7 +321,7 @@
         "productName": "Slim Fit Jeans",
         "productPrice": "105,000",
         "productDescription": "Modern slim fit jeans that offer a sleek silhouette. Made from high-quality denim, these jeans are both comfortable and stylish.",
-        "productImage": "men/8.webp",
+        "productImage": "Men/8.webp",
         "type": "men"
       },
       {
@@ -329,7 +329,7 @@
         "productName": "Polo Shirt",
         "productPrice": "85,000",
         "productDescription": "Classic polo shirt with a comfortable fit and a range of colors. Ideal for casual outings and layering under jackets.",
-        "productImage": "men/9.webp",
+        "productImage": "Men/9.webp",
         "type": "men"
       },
       {
@@ -337,7 +337,7 @@
         "productName": "Bomber Jacket",
         "productPrice": "140,000",
         "productDescription": "Stylish bomber jacket with a modern design. Made from durable materials, it's perfect for adding a cool edge to your outfits.",
-        "productImage": "men/10.webp",
+        "productImage": "Men/10.webp",
         "type": "men"
       },
       {
@@ -345,7 +345,7 @@
         "productName": "Knit Beanie",
         "productPrice": "60,000",
         "productDescription": "Warm knit beanie designed for comfort and style. Perfect for keeping your head cozy during the colder seasons.",
-        "productImage": "men/11.webp",
+        "productImage": "Men/11.webp",
         "type": "men"
       },
       {
@@ -353,7 +353,7 @@
         "productName": "Track Pants",
         "productPrice": "90,000",
         "productDescription": "Comfortable track pants with a modern fit. Ideal for workouts or casual lounging, made from breathable and stretchy material.",
-        "productImage": "men/12.webp",
+        "productImage": "Men/12.webp",
         "type": "men"
       }
     ],
@@ -462,7 +462,7 @@
       "productPrice": "125,000",
       "productDescription": "Step into the spotlight with our Elegant Evening Gown, a stunning piece that combines timeless elegance with contemporary design. Crafted from luxurious fabrics, this gown features intricate lace and soft silk that flows gracefully with every step.",
       "productImage": "women/1.webp",
-      "type": "women"
+      "type": "Women"
     },
     {
       "id": "2",
@@ -470,14 +470,14 @@
       "productPrice": "145,000",
       "productDescription": "Elevate your professional wardrobe with our Chic Blazer. Tailored for a polished look, it features sharp lines and high-quality fabric, perfect for business meetings or formal events.",
       "productImage": "women/1.webp",
-      "type": "women"
+      "type": "Women"
     },
     {
       "id": "3",
       "productName": "Flowy Maxi Dress",
       "productPrice": "90,000",
       "productDescription": "Embrace effortless style with our Flowy Maxi Dress. Featuring a relaxed fit and a beautiful print, this dress is perfect for both casual and dressy occasions.",
-      "productImage": "women/2.webp",
+      "productImage": "Women/2.webp",
       "type": "women"
     },
     {
@@ -485,7 +485,7 @@
       "productName": "Sophisticated Jumpsuit",
       "productPrice": "160,000",
       "productDescription": "Our Sophisticated Jumpsuit combines modern design with classic elegance. With its tailored fit and sleek lines, it’s a versatile piece for both day and night events.",
-      "productImage": "women/3.webp",
+      "productImage": "Women/3.webp",
       "type": "women"
     },
     {
@@ -493,7 +493,7 @@
       "productName": "Casual Denim Skirt",
       "productPrice": "75,000",
       "productDescription": "The Casual Denim Skirt is a staple for any wardrobe. With its comfortable fit and classic design, it pairs perfectly with a variety of tops for a casual, stylish look.",
-      "productImage": "women/4.webp",
+      "productImage": "Women/4.webp",
       "type": "women"
     },
     {
@@ -501,7 +501,7 @@
       "productName": "Trendy Sunglasses",
       "productPrice": "120,000",
       "productDescription": "Complete your look with our Trendy Sunglasses. Offering both UV protection and a chic design, these sunglasses are perfect for sunny days or any fashion-forward ensemble.",
-      "productImage": "women/5.webp",
+      "productImage": "Women/5.webp",
       "type": "women"
     },
     {
@@ -509,7 +509,7 @@
       "productName": "Elegant Cocktail Dress",
       "productPrice": "135,000",
       "productDescription": "Make a statement at your next event with our Elegant Cocktail Dress. Featuring a fitted bodice and a flared skirt, this dress is perfect for any special occasion.",
-      "productImage": "women/6.webp",
+      "productImage": "Women/6.webp",
       "type": "women"
     },
     {
@@ -517,7 +517,7 @@
       "productName": "Luxury Handbag",
       "productPrice": "200,000",
       "productDescription": "Our Luxury Handbag is a blend of style and function. Crafted from high-quality materials, it features a spacious interior and a sophisticated design, making it perfect for any occasion.",
-      "productImage": "women/7.webp",
+      "productImage": "Women/7.webp",
       "type": "women"
     },
     {
@@ -525,7 +525,7 @@
       "productName": "Soft Wool Sweater",
       "productPrice": "85,000",
       "productDescription": "Stay warm and stylish with our Soft Wool Sweater. Made from luxurious wool, it offers comfort and a refined look suitable for any casual or semi-formal setting.",
-      "productImage": "women/8.webp",
+      "productImage": "Women/8.webp",
       "type": "women"
     },
     {
@@ -533,7 +533,7 @@
       "productName": "Classic Trench Coat",
       "productPrice": "180,000",
       "productDescription": "The Classic Trench Coat is an iconic piece for any wardrobe. With its timeless design and high-quality fabric, it’s perfect for layering during cooler months.",
-      "productImage": "women/9.webp",
+      "productImage": "Women/9.webp",
       "type": "women"
     },
     {
@@ -541,7 +541,7 @@
       "productName": "Stylish Ankle Boots",
       "productPrice": "110,000",
       "productDescription": "Our Stylish Ankle Boots are a versatile addition to any outfit. Featuring a sleek design and comfortable fit, they’re perfect for both casual and formal occasions.",
-      "productImage": "women/16.webp",
+      "productImage": "Women/16.webp",
       "type": "women"
     },
     {
@@ -549,7 +549,7 @@
       "productName": "Floral Wrap Dress",
       "productPrice": "140,000",
       "productDescription": "Embrace a fresh look with our Floral Wrap Dress. The wrap design and floral pattern make it a lovely choice for spring and summer outings.",
-      "productImage": "women/11.webp",
+      "productImage": "Women/11.webp",
       "type": "women"
     },
     {
@@ -557,7 +557,7 @@
       "productName": "Elegant Clutch",
       "productPrice": "95,000",
       "productDescription": "Our Elegant Clutch adds a touch of sophistication to any evening look. With its sleek design and refined details, it’s perfect for carrying your essentials in style.",
-      "productImage": "women/12.webp",
+      "productImage": "Women/12.webp",
       "type": "women"
     },
     {
@@ -565,7 +565,7 @@
       "productName": "Comfy Joggers",
       "productPrice": "70,000",
       "productDescription": "Relax in style with our Comfy Joggers. Designed for ultimate comfort, these joggers are perfect for lounging or casual outings.",
-      "productImage": "women/13.webp",
+      "productImage": "Women/13.webp",
       "type": "women"
     },
     {
@@ -573,7 +573,7 @@
       "productName": "Sleek Pencil Skirt",
       "productPrice": "85,000",
       "productDescription": "The Sleek Pencil Skirt is a classic piece for your wardrobe. With its streamlined fit and versatile style, it’s perfect for both office wear and evening outings.",
-      "productImage": "women/14.webp",
+      "productImage": "Women/14.webp",
       "type": "women"
     },
     {
@@ -581,7 +581,7 @@
       "productName": "Chic Slip Dress",
       "productPrice": "155,000",
       "productDescription": "Our Chic Slip Dress offers a modern take on elegance. With its soft fabric and minimalist design, it’s a versatile piece for both daytime and evening events.",
-      "productImage": "women/15.webp",
+      "productImage": "Women/15.webp",
       "type": "women"
     }
   ]
